@@ -1,4 +1,4 @@
-# Very simple realtime chat application using NextJS and Socket.io
+# Very simple realtime domino game application using NextJS and Socket.io
 
 To run this example:
 
